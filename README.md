@@ -1,3 +1,3 @@
-# RL-M2018
+# Reinforcement Learning Codes
 
-Repository for RL homework
+Codes for common RL algorithms and some exercises from Sutton and Barto. Refer to pdf for details of each homework
